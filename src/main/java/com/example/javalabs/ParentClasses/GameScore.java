@@ -1,4 +1,4 @@
-package com.example.javalabs;
+package com.example.javalabs.ParentClasses;
 
 public class GameScore<T extends Number> {
     

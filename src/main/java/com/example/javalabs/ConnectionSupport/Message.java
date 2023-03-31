@@ -1,7 +1,6 @@
-package com.example.javalabs;
+package com.example.javalabs.ConnectionSupport;
 
 import java.io.Serializable;
-import java.util.ArrayDeque;
 
 public class Message implements Serializable {
     private MessageType messageType;

@@ -1,6 +1,9 @@
-package com.example.javalabs;
+package com.example.javalabs.ProjectModels;
 
-import javafx.application.Platform;
+import com.example.javalabs.ConnectionSupport.Connection;
+import com.example.javalabs.Controllers.Controller;
+import com.example.javalabs.ConnectionSupport.Message;
+import com.example.javalabs.ConnectionSupport.MessageType;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
@@ -9,7 +12,7 @@ import java.net.Socket;
 
 public class ClientModel {
     private Connection connection;
-    private com.example.javalabs.ClientModel user;
+    private ClientModel user;
     private boolean isConnect = false;
 
     public boolean IsConnect(){

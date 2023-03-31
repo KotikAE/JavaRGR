@@ -1,5 +1,6 @@
 package com.example.javalabs;
 
+import com.example.javalabs.ConnectionSupport.Connection;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

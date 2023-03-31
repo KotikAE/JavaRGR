@@ -1,5 +1,12 @@
 package com.example.javalabs;
 
+import com.example.javalabs.ConnectionSupport.Connection;
+import com.example.javalabs.ConnectionSupport.Message;
+import com.example.javalabs.ConnectionSupport.MessageType;
+import com.example.javalabs.ParentClasses.Genre;
+import com.example.javalabs.ParentClasses.User;
+import com.example.javalabs.ProjectModels.ServerModel;
+
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;

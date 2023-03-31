@@ -1,4 +1,11 @@
-package com.example.javalabs;
+package com.example.javalabs.ProjectModels;
+
+import com.example.javalabs.ParentClasses.Children.PCUser;
+import com.example.javalabs.ParentClasses.Children.PSUser;
+import com.example.javalabs.ParentClasses.Children.XBOXUser;
+import com.example.javalabs.ParentClasses.GameScore;
+import com.example.javalabs.ParentClasses.Genre;
+import com.example.javalabs.ParentClasses.User;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,6 @@
-package com.example.javalabs;
+package com.example.javalabs.Interfaces;
+
+import com.example.javalabs.ParentClasses.GameScore;
 
 public interface MyInterface {
     

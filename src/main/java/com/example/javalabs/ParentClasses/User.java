@@ -1,4 +1,6 @@
-package com.example.javalabs;
+package com.example.javalabs.ParentClasses;
+
+import com.example.javalabs.Interfaces.MyInterface;
 
 public abstract class User implements MyInterface {
     

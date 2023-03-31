@@ -1,9 +1,10 @@
-package com.example.javalabs;
+package com.example.javalabs.Controllers;
 
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
 
+import com.example.javalabs.ProjectModels.ClientModel;
 import javafx.collections.*;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;

@@ -1,4 +1,4 @@
-package com.example.javalabs;
+package com.example.javalabs.ConnectionSupport;
 
 import java.io.Closeable;
 import java.io.IOException;

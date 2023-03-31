@@ -1,4 +1,7 @@
-package com.example.javalabs;
+package com.example.javalabs.ParentClasses.Children;
+
+import com.example.javalabs.ParentClasses.GameScore;
+import com.example.javalabs.ParentClasses.User;
 
 public class XBOXUser extends User {
     

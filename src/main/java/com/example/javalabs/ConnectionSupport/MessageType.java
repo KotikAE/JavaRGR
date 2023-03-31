@@ -1,4 +1,4 @@
-package com.example.javalabs;
+package com.example.javalabs.ConnectionSupport;
 
 public enum MessageType {
     TAB_USER_REQUEST,
